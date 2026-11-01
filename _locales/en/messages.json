@@ -1,0 +1,14 @@
+{
+  "name": {
+    "message": "Snappy – full-page screenshot & recorder"
+  },
+  "short": {
+    "message": "Snappy"
+  },
+  "desc": {
+    "message": "Capture a whole web page, however long, as PDF, HTML or image in one click. Also captures areas, records video and prints."
+  },
+  "cmd": {
+    "message": "Save the whole page (stops recording if recording)"
+  }
+}
